@@ -1,0 +1,92 @@
+{
+    "stocks": [
+      {
+        "SYMBOL": "RELIANCE",
+        "PRICE": "2689.20",
+        "MKTCAP": " 17.705T",
+        "PE": "36.20",
+        "REV": "1.70",
+        "EPS":"78.75",
+        "DILUTED":"70.85",
+        "EV":"19.192T",
+        "SHARES":"7.339B"
+      },
+      {
+        "SYMBOL": "TCS",
+        "PRICE": "4689.20",
+        "MKTCAP": " 12.705T",
+        "PE": "46.20",
+        "REV": "9.70",
+        "EPS":"78.75",
+        "DILUTED":"80.85",
+        "EV":"20.192T",
+        "SHARES":"9.339B"
+      },
+      {
+        "SYMBOL": "ICICI",
+        "PRICE": "4689.20",
+        "MKTCAP": " 27.705T",
+        "PE": "26.20",
+        "REV": "6.70",
+        "EPS":"68.75",
+        "DILUTED":"90.85",
+        "EV":"39.192T",
+        "SHARES":"5.339B"
+      },
+      {
+        "SYMBOL": "INFY",
+        "PRICE": "5689.20",
+        "MKTCAP": "37.705T",
+        "PE": "36.20",
+        "REV": "5.70",
+        "EPS":"88.75",
+        "DILUTED":"97.85",
+        "EV":"17.192T",
+        "SHARES":"5.339B"
+      },
+      {
+        "SYMBOL": "RELIANCE",
+        "PRICE": "2689.20",
+        "MKTCAP": " 17.705T",
+        "PE": "26.20",
+        "REV": "2.70",
+        "EPS":"98.75",
+        "DILUTED":"90.85",
+        "EV":"19.192T",
+        "SHARES":"6.339B"
+      },
+      {
+        "SYMBOL": "TCS",
+        "PRICE": "2689.20",
+        "MKTCAP": " 17.705T",
+        "PE": "26.20",
+        "REV": "2.70",
+        "EPS":"98.75",
+        "DILUTED":"90.85",
+        "EV":"19.192T",
+        "SHARES":"6.339B"
+      },
+      {
+        "SYMBOL": "ICICI",
+        "PRICE": "2689.20",
+        "MKTCAP": " 17.705T",
+        "PE": "26.20",
+        "REV": "2.70",
+        "EPS":"98.75",
+        "DILUTED":"90.85",
+        "EV":"19.192T",
+        "SHARES":"6.339B"
+      },
+      {
+        "SYMBOL": "INFY",
+        "PRICE": "2689.20",
+        "MKTCAP": "17.705T",
+        "PE": "26.20",
+        "REV": "2.70",
+        "EPS":"98.75",
+        "DILUTED":"90.85",
+        "EV":"19.192T",
+        "SHARES":"6.339B"
+      }
+    ]
+  }

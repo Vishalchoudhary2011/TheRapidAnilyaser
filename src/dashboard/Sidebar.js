@@ -31,33 +31,33 @@ export default function Sidebar() {
                     >
                       <li className="w-100 labelcheck">
                         <input
-                          class="form-check-input"
+                          className="form-check-input"
                           type="checkbox"
                           id="check1"
                           name="Nifty50"
                           value=""
                         />
-                        <label class="form-check-label">NIFTY 50</label>
+                        <label className="form-check-label">NIFTY 50</label>
                       </li>
                       <li className="w-100 labelcheck">
                         <input
-                          class="form-check-input"
+                          className="form-check-input"
                           type="checkbox"
                           id="check2"
                           name="Niftybank"
                           value=""
                         />
-                        <label class="form-check-label">NIFTY BANK</label>
+                        <label className="form-check-label">NIFTY BANK</label>
                       </li>
                       <li className="w-100 labelcheck">
                         <input
-                          class="form-check-input"
+                          className="form-check-input"
                           type="checkbox"
                           id="check3"
                           name="Sensex"
                           value=""
                         />
-                        <label class="form-check-label">SENSEX</label>
+                        <label className="form-check-label">SENSEX</label>
                       </li>
                     </ul>
                   </li>
@@ -81,23 +81,23 @@ export default function Sidebar() {
                     >
                       <li className="w-100 labelcheck">
                         <input
-                          class="form-check-input"
+                          className="form-check-input"
                           type="checkbox"
                           id="daygainer"
                           name="Daygainer"
                           value=""
                         />
-                        <label class="form-check-label">Day Gainer</label>
+                        <label className="form-check-label">Day Gainer</label>
                       </li>
                       <li className="w-100 labelcheck">
                         <input
-                          class="form-check-input"
+                          className="form-check-input"
                           type="checkbox"
                           id="daylooser"
                           name="Daylooser"
                           value=""
                         />
-                        <label class="form-check-label">Day Looser</label>
+                        <label className="form-check-label">Day Looser</label>
                       </li>
                     </ul>
                   </li>
@@ -120,23 +120,23 @@ export default function Sidebar() {
                     >
                       <li className="w-100 labelcheck">
                         <input
-                          class="form-check-input"
+                          className="form-check-input"
                           type="checkbox"
                           id="weeklygainer"
                           name="Weeklygainer"
                           value=""
                         />
-                        <label class="form-check-label">Weekly Gainer</label>
+                        <label className="form-check-label">Weekly Gainer</label>
                       </li>
                       <li className="w-100 labelcheck">
                         <input
-                          class="form-check-input"
+                          className="form-check-input"
                           type="checkbox"
                           id="Weeklylooser"
                           name="Weeklylooser"
                           value=""
                         />
-                        <label class="form-check-label">Weekly Looser</label>
+                        <label className="form-check-label">Weekly Looser</label>
                       </li>
                     </ul>
                   </li>
@@ -159,23 +159,23 @@ export default function Sidebar() {
                     >
                       <li className="w-100 labelcheck">
                         <input
-                          class="form-check-input"
+                          className="form-check-input"
                           type="checkbox"
                           id="yearlygainer"
                           name="Yearlygainer"
                           value=""
                         />
-                        <label class="form-check-label">Yearly Gainer</label>
+                        <label className="form-check-label">Yearly Gainer</label>
                       </li>
                       <li className="w-100 labelcheck">
                         <input
-                          class="form-check-input"
+                          className="form-check-input"
                           type="checkbox"
                           id="yearlylooser"
                           name="Yearlylooser"
                           value=""
                         />
-                        <label class="form-check-label">Yearly Looser</label>
+                        <label className="form-check-label">Yearly Looser</label>
                       </li>
                     </ul>
                   </li>
@@ -198,23 +198,23 @@ export default function Sidebar() {
                     >
                       <li className="w-100 labelcheck">
                         <input
-                          class="form-check-input"
+                          className="form-check-input"
                           type="checkbox"
                           id="toprated"
                           name="Toprated"
                           value=""
                         />
-                        <label class="form-check-label">Top Traded</label>
+                        <label className="form-check-label">Top Traded</label>
                       </li>
                       <li className="w-100 labelcheck">
                         <input
-                          class="form-check-input"
+                          className="form-check-input"
                           type="checkbox"
                           id="volumesurge"
                           name="Volumesurge"
                           value=""
                         />
-                        <label class="form-check-label">Volume Surge</label>
+                        <label className="form-check-label">Volume Surge</label>
                       </li>
                     </ul>
                   </li>
